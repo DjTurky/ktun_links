@@ -15,10 +15,6 @@ class PushNotificationsManager {
     if (!_initialized) {
       _firebaseMessaging.requestNotificationPermissions();
       _firebaseMessaging.configure();
-
-      String token = await _firebaseMessaging.getToken();
-      print("FirebaseMessaging token: $token");
-
       _initialized = true;
     }
   }
