@@ -6,7 +6,7 @@ import 'package:KTUN/screens/timetable.dart';
 import 'package:KTUN/utils/PushNotificationsManager.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_snake_navigationbar/flutter_snake_navigationbar.dart';
-import 'package:KTUN/models/Website.dart';
+import 'package:KTUN/models/website.dart';
 import 'package:KTUN/utils/UIHelper.dart';
 
 void main() {

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:KTUN/models/Website.dart';
+import 'package:KTUN/models/website.dart';
 import 'package:flutter_webview_plugin/flutter_webview_plugin.dart';
 import 'package:KTUN/utils/UIHelper.dart';
 

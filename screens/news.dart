@@ -1,4 +1,4 @@
-import 'package:KTUN/models/Website.dart';
+import 'package:KTUN/models/website.dart';
 import 'package:KTUN/screens/webview.dart';
 import 'package:KTUN/utils/UIHelper.dart';
 import 'package:connectivity/connectivity.dart';
